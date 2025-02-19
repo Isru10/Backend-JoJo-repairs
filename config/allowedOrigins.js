@@ -3,7 +3,8 @@ const allowedOrigins = [
     // 'https://www.dandrepairshop.com',
     // 'https://dandrepairshop.com',
     // 'http://localhost:5173',
-    'https://technotes-6d2k.onrender.com'
+    'https://technotes-6d2k.onrender.com',
+    'https://technotes-api-hf2v.onrender.com/'
 ];
 
 module.exports = allowedOrigins;
